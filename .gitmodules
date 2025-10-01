@@ -1,0 +1,9 @@
+[submodule "handler"]
+	path = handler
+	url = git@github.com:S3942721/pepper-chatbot.git
+[submodule "web-controller"]
+	path = web-controller
+	url = git@github.com:S3942721/robo-web-controller.git
+[submodule "stt"]
+	path = stt
+	url = git@github.com:S3942721/haku_stt.git
