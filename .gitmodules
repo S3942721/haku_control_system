@@ -1,12 +1,16 @@
 [submodule "handler"]
 	path = handler
 	url = git@github.com:S3942721/pepper-chatbot.git
-	branch = audio_stream_test
+	branch = main
 [submodule "web-controller"]
 	path = web-controller
 	url = git@github.com:S3942721/robo-web-controller.git
-	branch = audio-stream-test
+	branch = feat/local-llm
 [submodule "stt"]
 	path = stt
 	url = git@github.com:S3942721/haku_stt.git
+	branch = main
+[submodule "llm"]
+	path = llm
+	url = git@github.com:S3942721/robo-llm-server.git
 	branch = main
