@@ -1,16 +1,16 @@
 [submodule "handler"]
 	path = handler
-	url = git@github.com:S3942721/pepper-chatbot.git
+	url = https://gitea.cdirmit.co/CDI/pepper-chatbot.git
 	branch = main
 [submodule "web-controller"]
 	path = web-controller
-	url = git@github.com:S3942721/robo-web-controller.git
+	url = https://gitea.cdirmit.co/CDI/robo-web-controller.git
 	branch = feat/local-llm
 [submodule "stt"]
 	path = stt
-	url = git@github.com:S3942721/haku_stt.git
+	url = https://gitea.cdirmit.co/CDI/haku_stt.git
 	branch = main
 [submodule "llm"]
 	path = llm
-	url = git@github.com:S3942721/robo-llm-server.git
+	url = https://gitea.cdirmit.co/CDI/robo-llm-server.git
 	branch = main
